@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBrain", "ChessBrain\ChessBrain.csproj", "{77A4FACD-6583-43EB-83C6-A2F1D3911FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBrain.Tests", "ChessBrain.Tests\ChessBrain.Tests.csproj", "{CC594584-D876-4D88-A78A-971B70E98AE8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2} = {B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBrainBackEnd", "ChessBrainBackEnd\ChessBrainBackEnd.csproj", "{B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBrainRespository", "ChessBrainRespositroy\ChessBrainRespository.csproj", "{E1D90E34-3346-4ED0-99DA-79BA76277427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A4FACD-6583-43EB-83C6-A2F1D3911FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A4FACD-6583-43EB-83C6-A2F1D3911FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A4FACD-6583-43EB-83C6-A2F1D3911FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A4FACD-6583-43EB-83C6-A2F1D3911FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC594584-D876-4D88-A78A-971B70E98AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC594584-D876-4D88-A78A-971B70E98AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC594584-D876-4D88-A78A-971B70E98AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC594584-D876-4D88-A78A-971B70E98AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C98C0F-18A3-4D40-95AF-F67F9C3B40D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D90E34-3346-4ED0-99DA-79BA76277427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D90E34-3346-4ED0-99DA-79BA76277427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D90E34-3346-4ED0-99DA-79BA76277427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D90E34-3346-4ED0-99DA-79BA76277427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

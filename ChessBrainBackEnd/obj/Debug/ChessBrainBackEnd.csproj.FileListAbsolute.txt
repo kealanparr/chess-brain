@@ -1,0 +1,11 @@
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\ChessBrainBackEnd.dll.config
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\ChessBrainBackEnd.dll
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\ChessBrainBackEnd.pdb
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\EntityFramework.dll
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\EntityFramework.xml
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\obj\Debug\ChessBrainBackEnd.Migrations.InitialModel.resources
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\obj\Debug\ChessBrainBackEnd.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\obj\Debug\ChessBrainBackEnd.dll
+C:\Users\Ivan\Desktop\ood-master-77313aba623afd688e15e1085f560746f2483ace\ChessBrain\ChessBrainBackEnd\obj\Debug\ChessBrainBackEnd.pdb
